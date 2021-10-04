@@ -1,0 +1,25 @@
+basic_fixtures.py
+        1 module setup
+                2 function setup
+                        3 basic setup into module
+                        test 3*4
+.                       3 basic teardown into module
+                2 function teardown
+                2 function setup
+                        3 basic setup into module
+                        test a*3
+.                       3 basic teardown into module
+                2 function teardown
+                2.0 class setup
+                        2.1 method setup
+                                2.2 basic setup into class
+                                test 5*6
+.                               2.2 basic teardown into class
+                        2.1 method teardown
+                        2.1 method setup
+                                2.2 basic setup into class
+                                test b*2
+.                               2.2 basic teardown into class
+                        2.1 method teardown
+                2.0 class teardown
+        1 module teardown
