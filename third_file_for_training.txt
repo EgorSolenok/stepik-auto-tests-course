@@ -1,2 +1,1 @@
 I added third file for testing and practise.
-This is wrong line text. It is contain dangerous failure.
