@@ -1,5 +1,4 @@
 Sentence for learning merge and branch
 Thire line 
 Line for rebase for commit 2
-Line for rebase for commit 3
 
