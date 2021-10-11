@@ -2,4 +2,4 @@ Sentence for learning merge and branch
 Thire line 
 Line for rebase for commit 2
 New changes for push
-
+new changes for learning pull rebase
